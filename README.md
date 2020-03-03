@@ -1,2 +1,3 @@
 # randomwalk
-back-testing a trading strategy based on the random-walk theory
+Back-testing a trading strategy based on the random-walk theory by using Python
+Medium post: 
